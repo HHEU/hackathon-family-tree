@@ -8,15 +8,15 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 - Yahoo Hack
   - CharityHack (also parented by BarCamp)
     - BattleHack
-  - HackManchester
-    - Hack24
-      - LincolnHack
-      - HackTheMidlands
+  - LeedsHack
+    - HackManchester
+      - Hack24
+        - LincolnHack
+        - HackTheMidlands
   - Hacked.io (also parented by Mashed 2008)
     - Hackference (also parented by Kings of Code)
       - BanterHack
       - BrumHack (The Jack and Lily Generation)
-        - HackTheMidlands (also parented by Hack24)
       - HackNotts
         - AnvilHack
           - Sex Tech Hack
@@ -42,6 +42,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - Young Rewired State
     - BrumHack (Poppie)
       - Aston Hack 
+      - HackTheMidlands (also parented by Hack24)
     - Reading Hack
   - Parly Hack
       - Accountability Hack
@@ -63,3 +64,5 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - DurHack
 - Unhackathon
   - Porticode
+- HackaSoton
+    - HackTrain
