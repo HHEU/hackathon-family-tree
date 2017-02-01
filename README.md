@@ -11,13 +11,13 @@ Whilst we go through data discovery, this will initially be an awful list of lis
       - BrumHack (The Jack and Lily Generation)
         - HackTheMidlands (also parented by Hack24)
       - HackNotts
+        - AnvilHack
         - Launch Hack (also parented by StudentHack)
           - HackNE
           - Landing Hack
           - WarwickHACK
           - Hack the Holidays
           - Hack the Burgh
-          - AnvilHack
           - StacsHack
             - StirHack
             - StrathHack
