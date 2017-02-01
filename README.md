@@ -1,7 +1,9 @@
 # hackathon-family-tree
-Tracking the lineage of the EU hackathon scene!
+Tracking the lineage of the EU hackathon scene! 
 
-This is going to initially be an awful list of lists whilst we work out what this looks like and how complex a web it is.
+If you think you know where a hackathon lives in this tree, or you see an error, please create a pull request. 
+
+Whilst we go through data discovery, this will initially be an awful list of lists. 
 
 - Hackference
   - HackNotts
@@ -25,3 +27,5 @@ Important potential parents:
 - StudentHack
 - HackKings
   - HackLondon
+- JacobsHack
+  - CopenHacks
