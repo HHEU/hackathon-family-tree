@@ -24,6 +24,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
           - HackNE
           - Landing Hack
           - WarwickHACK
+            - CUCC Hack
           - Hack the Holidays
           - Hack the Burgh
           - StacsHack
@@ -59,4 +60,3 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - DurHack
 - Unhackathon
   - Porticode
-- CUCC Hack
