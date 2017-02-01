@@ -52,3 +52,5 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 - ICHack
 - CharityHack
     - BattleHack
+- JP Morgan Code For Good
+  - DurHack
