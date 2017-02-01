@@ -44,7 +44,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - HackCambridge
   - AGHacks (also parented by MHacks)
   
-# House of the Civic Hackathons
+# House of the Civic Hackathons (Otherwise known as "Kevin's Fault")
 
 - National Hack the Government
   - Young Rewired State
