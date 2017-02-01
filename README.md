@@ -8,6 +8,8 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 - Hackference
   - HackNotts
     - Launch Hack
+      - Landing Hack
+        - HackNE
       - Warwick Hack
       - Hack the Holidays
       - Hack the Burgh
