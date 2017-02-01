@@ -20,6 +20,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
       - HackNotts
         - AnvilHack
         - Launch Hack (also parented by StudentHack)
+          - DragonHacks
           - HackNE
           - Landing Hack
           - WarwickHACK
@@ -58,3 +59,4 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - DurHack
 - Unhackathon
   - Porticode
+- CUCC Hack
