@@ -8,11 +8,11 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 - Hacked.io
   - Hackference
     - BrumHack (The Jack and Lily Generation)
-      - HackTheMidlands
+      - HackTheMidlands (also parented by Hack24)
     - HackNotts
       - Launch Hack (also parented by StudentHack)
+        - HackNE
         - Landing Hack
-          - HackNE
         - WarwickHACK
         - Hack the Holidays
         - Hack the Burgh
@@ -45,4 +45,5 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - OxfordHack
 - Hack24
   - HackTheMidlands
+- ICHack
 
