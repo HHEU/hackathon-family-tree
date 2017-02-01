@@ -7,7 +7,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 
 - Hackference
   - HackNotts
-    - Launch Hack
+    - Launch Hack (also parented by StudentHack)
       - Landing Hack
         - HackNE
       - Warwick Hack
@@ -27,6 +27,8 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 Important potential parents: 
 
 - StudentHack
+  - LaunchHack
+  - GreatUniHack
 - HackKings
   - HackLondon
 - JacobsHack
