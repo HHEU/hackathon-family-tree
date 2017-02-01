@@ -39,7 +39,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 - HackKings
   - HackLondon
 - AngelHack
-  - JacobsHack
+  - jacobsHack!
     - CopenHacks
     - LauzHack
     - OxfordHack
