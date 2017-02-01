@@ -20,9 +20,14 @@ Whilst we go through data discovery, this will initially be an awful list of lis
         - HackDee
         - RGU Hack
   - BrumHack
+    - Aston Hack 
 - PennApps
   - HackUPC
   - HackCambridge
+- National Hack the Government
+  - Parly Hack
+  - UKGovHack
+  - Accountability Hack
  
 Important potential parents: 
 
