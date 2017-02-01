@@ -74,6 +74,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 - HackKings
   - HackLondon
     - HackCity
+  - HackCortona
 - ICHack
 - JP Morgan Code For Good
   - DurHack
