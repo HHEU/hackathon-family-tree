@@ -27,7 +27,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 Important potential parents: 
 
 - StudentHack
-  - LaunchHack
+  - Launch Hack
   - GreatUniHack
 - HackKings
   - HackLondon
