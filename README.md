@@ -3,7 +3,7 @@ Tracking the lineage of the EU hackathon scene!
 
 If you think you know where a hackathon lives in this tree, or you see an error, please create a pull request. 
 
-Whilst we go through data discovery, this will initially be an awful list of lists. 
+Whilst we go through data discovery, this will initially be an awful list of lists. There may be repeated data as nested lists don't express multiple-parents very well. 
 
 - Hackference
   - HackNotts
