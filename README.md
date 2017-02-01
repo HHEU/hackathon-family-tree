@@ -19,14 +19,14 @@ Whilst we go through data discovery, this will initially be an awful list of lis
         - StrathHack
         - HackDee
         - RGU Hack
-- Young Rewired State
-  - BrumHack
-    - Aston Hack 
 - PennApps
   - KairosHacks
     - HackUPC
   - HackCambridge
 - National Hack the Government
+  - Young Rewired State
+    - BrumHack
+      - Aston Hack 
   - Parly Hack
   - UKGovHack
   - Accountability Hack
