@@ -6,6 +6,9 @@ If you think you know where a hackathon lives in this tree, or you see an error,
 Whilst we go through data discovery, this will initially be an awful list of lists. There may be repeated data as nested lists don't express multiple-parents very well. 
 
 - Yahoo Hack
+  - HackManchester
+    - Hack24
+      - HackTheMidlands
   - Hacked.io (also parented by Mashed 2008)
     - Hackference (also parented by Kings of Code)
       - BrumHack (The Jack and Lily Generation)
@@ -45,8 +48,5 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - CopenHacks
     - LauzHack
     - OxfordHack
-- HackManchester
-  - Hack24
-    - HackTheMidlands
 - ICHack
 
