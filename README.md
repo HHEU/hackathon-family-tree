@@ -45,7 +45,8 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - CopenHacks
     - LauzHack
     - OxfordHack
-- Hack24
-  - HackTheMidlands
+- HackManchester
+  - Hack24
+    - HackTheMidlands
 - ICHack
 
