@@ -6,6 +6,8 @@ If you think you know where a hackathon lives in this tree, or you see an error,
 Whilst we go through data discovery, this will initially be an awful list of lists. There may be repeated data as nested lists don't express multiple-parents very well. 
 
 - Yahoo Hack
+  - CharityHack (also parented by BarCamp)
+    - BattleHack
   - HackManchester
     - Hack24
       - LincolnHack
@@ -32,6 +34,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - KairosHacks
     - HackUPC
   - HackCambridge
+  - AGHacks (also parented by MHacks)
 - National Hack the Government
   - Young Rewired State
     - BrumHack (Poppie)
@@ -51,7 +54,5 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - LauzHack
     - OxfordHack
 - ICHack
-- CharityHack
-    - BattleHack
 - JP Morgan Code For Good
   - DurHack
