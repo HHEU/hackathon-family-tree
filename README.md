@@ -6,13 +6,22 @@ This is going to initially be an awful list of lists whilst we work out what thi
 - Hackference
   - HackNotts
     - Launch Hack
-    - StacsHack
-    - StirHack
-    - StrathHack
-    - HackDee
-    - RGU Hack
- - BrumHack
+      - Warwick Hack
+      - Hack the Holidays
+      - Hack the Burgh
+      - AnvilHack
+      - StacsHack
+        - StirHack
+        - StrathHack
+        - HackDee
+        - RGU Hack
+  - BrumHack
 - PennApps
- - HackUPC
- - HackCambridge
+  - HackUPC
+  - HackCambridge
  
+Important potential parents: 
+
+- StudentHack
+- HackKings
+  - HackLondon
