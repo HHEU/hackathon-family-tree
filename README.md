@@ -12,6 +12,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
       - HackTheMidlands
   - Hacked.io (also parented by Mashed 2008)
     - Hackference (also parented by Kings of Code)
+      - BanterHack
       - BrumHack (The Jack and Lily Generation)
         - HackTheMidlands (also parented by Hack24)
       - HackNotts
