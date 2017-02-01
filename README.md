@@ -7,13 +7,13 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 
 - Hackference
   - HackNotts
-    - AnvilHack
     - Launch Hack (also parented by StudentHack)
       - Landing Hack
         - HackNE
       - Warwick Hack
       - Hack the Holidays
       - Hack the Burgh
+      - AnvilHack
       - StacsHack
         - StirHack
         - StrathHack
@@ -21,7 +21,8 @@ Whilst we go through data discovery, this will initially be an awful list of lis
         - RGU Hack
   - BrumHack
 - PennApps
-  - HackUPC
+  - KairosHacks
+    - HackUPC
   - HackCambridge
  
 Important potential parents: 
@@ -31,5 +32,7 @@ Important potential parents:
   - GreatUniHack
 - HackKings
   - HackLondon
-- JacobsHack
-  - CopenHacks
+- AngelHack
+  - JacobsHack
+    - CopenHacks
+    - LauzHack
