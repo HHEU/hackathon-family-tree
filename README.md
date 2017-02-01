@@ -50,4 +50,5 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - LauzHack
     - OxfordHack
 - ICHack
-
+- CharityHack
+    - BattleHack
