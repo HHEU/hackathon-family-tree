@@ -30,6 +30,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - Young Rewired State
     - BrumHack (Poppie)
       - Aston Hack 
+    - Reading Hack
   - Parly Hack
       - Accountability Hack
   - UKGovHack
