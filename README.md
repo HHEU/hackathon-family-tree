@@ -10,7 +10,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - Launch Hack (also parented by StudentHack)
       - Landing Hack
         - HackNE
-      - Warwick Hack
+      - WarwickHACK
       - Hack the Holidays
       - Hack the Burgh
       - AnvilHack
