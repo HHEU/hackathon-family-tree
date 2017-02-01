@@ -1,5 +1,5 @@
 # hackathon-family-tree
-Tracking the lineage of the EU hackathon scene! 
+Tracing the lineage of the EU hackathon scene! 
 
 If you think you know where a hackathon lives in this tree, or you see an error, please create a pull request. 
 
