@@ -20,13 +20,15 @@ Whilst we go through data discovery, this will initially be an awful list of lis
         - HackDee
         - RGU Hack
   - BrumHack
+    - Aston Hack 
 - PennApps
   - KairosHacks
     - HackUPC
   - HackCambridge
- 
-Important potential parents: 
-
+- National Hack the Government
+  - Parly Hack
+  - UKGovHack
+  - Accountability Hack
 - StudentHack
   - Launch Hack
   - GreatUniHack
@@ -36,3 +38,4 @@ Important potential parents:
   - JacobsHack
     - CopenHacks
     - LauzHack
+
