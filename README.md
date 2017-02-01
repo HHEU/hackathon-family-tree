@@ -28,9 +28,6 @@ Whilst we go through data discovery, this will initially be an awful list of lis
   - Parly Hack
   - UKGovHack
   - Accountability Hack
- 
-Important potential parents: 
-
 - StudentHack
   - Launch Hack
   - GreatUniHack
@@ -38,3 +35,7 @@ Important potential parents:
   - HackLondon
 - JacobsHack
   - CopenHacks
+ 
+
+
+
