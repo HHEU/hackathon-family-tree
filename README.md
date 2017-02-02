@@ -57,6 +57,7 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
     - BrumHack (Poppie)
       - Aston Hack 
       - HackTheMidlands (also parented by Hack24)
+      - HackBordeaux
     - RU Hacking
   - Parly Hack
       - Accountability Hack
@@ -133,6 +134,7 @@ graph TD;
     YoungRewiredState-->RUHacking;    
     BrumHack-->AstonHack;  
     BrumHack-->HackTheMidlands;  
+    BrumHack-->HackBordeaux;
     NationalHackTheGovernment-->ParlyHack;  
     NationalHackTheGovernment-->UKGovHack;  
     AngelHack-->jacobsHack!;  
