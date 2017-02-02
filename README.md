@@ -73,12 +73,12 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
     - LauzHack
     - OxfordHack
     - DO!Hack
+    - StudentHack
+      - Launch Hack
+      - GreatUniHack
 
 # Orphaned Houses
 
-- StudentHack
-  - Launch Hack
-  - GreatUniHack
 - HackKings
   - HackLondon
     - Porticode (also parented by NYC Unhackathon)
@@ -140,6 +140,7 @@ graph TD;
     NationalHackTheGovernment-->ParlyHack;  
     NationalHackTheGovernment-->UKGovHack;  
     AngelHack-->jacobsHack!;  
+    AngelHack-->StudentHack;
     jacobsHack!-->CopenHacks;  
     jacobsHack!-->LauzHack;  
     jacobsHack!-->OxfordHack;  
@@ -153,3 +154,4 @@ graph TD;
     JPMCodeForGood-->DurHack;  
     HackaSoton-->HackTrain;  
     HackSheffield;
+    
