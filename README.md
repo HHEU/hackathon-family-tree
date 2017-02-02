@@ -150,3 +150,4 @@ graph TD;
     ICHack;  
     JPMCodeForGood-->DurHack;  
     HackaSoton-->HackTrain;  
+    HackSheffield;
