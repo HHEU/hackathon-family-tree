@@ -86,7 +86,7 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
     - HackTrain
     
 # Mermaid Graph
-[View the graph](http://bit.ly/hheutree)
+[View the graph](http://bit.ly/hheutree)  
 [Edit the graph](http://bit.ly/hheutreeedit)
 
 graph TD;  
