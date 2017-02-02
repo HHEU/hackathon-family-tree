@@ -106,7 +106,7 @@ graph TD;
     HackManchester-->Hack24;  
     Hack24-->LincolnHack;  
     Hack24-->HackTheMidlands;  
-    Hackedference-->BanterHack;  
+    Hackference-->BanterHack;  
     Hackference-->BrumHack;  
     Hackference-->HackNotts;  
     HackNotts-->AnvilHack;  
