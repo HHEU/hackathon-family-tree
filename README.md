@@ -53,7 +53,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
     - BrumHack (Poppie)
       - Aston Hack 
       - HackTheMidlands (also parented by Hack24)
-    - Reading Hack
+    - RU Hacking
   - Parly Hack
       - Accountability Hack
   - UKGovHack
