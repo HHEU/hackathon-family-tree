@@ -1,6 +1,8 @@
 # hackathon-family-tree
 Tracing the lineage of the EU hackathon scene! 
 
+![Mermaid generated graph](https://cloud.githubusercontent.com/assets/1790822/22543983/4982a21e-e933-11e6-9bd2-59757d5518c9.png)
+
 If you think you know where a hackathon lives in this tree, or you see an error, please create a pull request. 
 
 Whilst we go through data discovery, this will initially be an awful list of lists. There may be repeated data as nested lists don't express multiple-parents very well. 
