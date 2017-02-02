@@ -7,7 +7,7 @@ Whilst we go through data discovery, this will initially be an awful list of lis
 
 # The Yahoo! Hack Dynasty
 
-- Yahoo Hack
+- Yahoo! Hack
   - Over The Air
   - CharityHack (also parented by BarCamp)
     - BattleHack
