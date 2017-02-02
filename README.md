@@ -1,7 +1,8 @@
 # hackathon-family-tree
 Tracing the lineage of the EU hackathon scene! 
 
-![Mermaid generated graph](https://cloud.githubusercontent.com/assets/1790822/22545790/78f4374a-e93a-11e6-85ad-55eca2fd04b8.png)
+
+![Mermaid render](https://cloud.githubusercontent.com/assets/1790822/22555825/5ed6cf6e-e965-11e6-99ac-87fdb12378a3.png)
 
 
 
