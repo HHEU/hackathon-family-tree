@@ -72,6 +72,7 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
   - jacobsHack!
     - CopenHacks
     - LauzHack
+      - OpenFood Hackdays
     - OxfordHack
     - DO!Hack
     - StudentHack
@@ -90,6 +91,8 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
   - DurHack
 - HackaSoton
     - HackTrain
+- StartHack
+- HackZurich
     
 # Mermaid Graph
 [View the graph](http://bit.ly/hheutree)  
@@ -144,6 +147,7 @@ graph TD;
     AngelHack-->StudentHack;
     jacobsHack!-->CopenHacks;  
     jacobsHack!-->LauzHack;  
+    LauzHack-->OpenFoodHackdays;
     jacobsHack!-->OxfordHack;  
     jacobsHack!-->DO!Hack;  
     StudentHack-->GreatUniHack;  
@@ -151,7 +155,9 @@ graph TD;
     HackKings-->HackCortona;  
     HackLondon-->Porticode;  
     HackLondon-->HackCity;  
-    ICHack;  
+    ICHack;
+    StartHack;
+    HackZurich;
     JPMCodeForGood-->DurHack;  
     HackaSoton-->HackTrain;  
     HackSheffield;
