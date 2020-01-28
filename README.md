@@ -78,6 +78,7 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
     - StudentHack
       - Launch Hack
       - GreatUniHack
+      - ManMetHacks
 
 # Orphaned Houses
 
@@ -118,6 +119,7 @@ graph TD;
     AnvilHack-->SexTechHack;  
     HackNotts-->LaunchHack;  
     StudentHack-->LaunchHack;  
+    StudentHack-->ManMetHacks; 
     LaunchHack-->DragonHacks;  
     LaunchHack-->HackNE;  
     LaunchHack-->LandingHack;  
